@@ -19,8 +19,7 @@ You will also see any lint errors in the console.
 
 ### `npm server`
 
-Runs the nodejs server for file upload. uploaded file will be stored in /public folder.
-
+Runs the nodejs server for file upload using the command 'npm server'.
 
 ### `Implemented funtionalities`
 
